@@ -1,0 +1,10 @@
+minForsteKode (CamelCasing)
+
+Alt+Shift+F for prettier format
+Ctrl+Shift+Ø for terminal information
+ctrl+shift+arrow key for mark of full word
+H1 emmet abbreviation - very important its a cut down version of Header 1
+P for paragraph
+
+<ul> unordered list
+<ol> ordered list
