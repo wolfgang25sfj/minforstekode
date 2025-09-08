@@ -8,3 +8,5 @@ P for paragraph
 
 <ul> unordered list
 <ol> ordered list
+<li> list item
+init.commit when uploading sourcecode
