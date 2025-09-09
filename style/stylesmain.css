@@ -10,8 +10,10 @@ background-color: rgb(243, 6, 6);
 body{background-image: url(../html1.png) ;
 background-repeat: no-repeat;
 background-position: 50% 50%;
-background-size: 45%;
-background-position-x: 50%;
-background-position-y: -14%;
+background-size: 40%;
+/* background-position-x: 50%;
+background-position-y: -14%; */
+background-position: 50% -14%;
+min-height: 100vh;
 }
 
