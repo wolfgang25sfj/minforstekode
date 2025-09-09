@@ -10,3 +10,12 @@ P for paragraph
 <ol> ordered list
 <li> list item
 init.commit when uploading sourcecode
+alt gr 7 for curl brackets
+ctrl space for direct directory jumping in code
+
+
+*{ 
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
