@@ -5,6 +5,7 @@ font-style: oblique;
 font-variant: inherit;
 text-decoration: dotted;
 background-color: rgb(45, 59, 59);
+position: top center;
 }
 
 -->
@@ -32,15 +33,18 @@ header > nav > a {
 }
 
 button.navlink {
-color: rgb(216, 13, 13);
-background-color: black;
+color: rgb(70, 8, 243);
+background: transparent;
 padding: 8px;
 border: none;
 border-radius: 16%;
-font-size: 16px;
+font-size: 20px;
 font-family: sans-serif;
 font-display: (auto);
-
+float: inline-end;
+background-image: url(../polygon.png);
+background-repeat: no-repeat;
+background-position: center;
 }
 
 button:hover {

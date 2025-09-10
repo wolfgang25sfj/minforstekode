@@ -1,4 +1,7 @@
-nav{background-color: blueviolet;}
+nav{
+    background-color: blueviolet;
+
+}
 
 .buttonLinks{color: blue;}
 
@@ -17,3 +20,15 @@ background-position: 50% -14%;
 min-height: 100vh;
 }
 
+body{background-image: url(../logo.png);
+background-repeat: no-repeat;
+background-size: 5% 5%;
+background-position: top left;
+
+
+
+
+
+
+
+}
